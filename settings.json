@@ -7,15 +7,15 @@
 	"anticall": false,
 	"auto_welcome_msg": true,
 	"auto_leave_msg": true,
-	"prefix": ".",
+	"prefix": "/",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfcོ",
-	"ownername": "ZeeoneOfcོ",
-	"botname":"ALPHABOT",
+	"ownerNumber": "6285799850519",
+	"ownerNumberr": "6285799850519",
+	"cr": "@Radit Ganz",
+	"ownername": "Radit Ganz",
+	"botname":"ITSUKIBOT",
 	"thumb":"thumbnail_1.jpg",
 	"thumbnail":"thumbnail_2.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  ALPHABOT  」\nCreated By @ZeeoneOfcོ"
+	"fake": " 「  ITSUKI BOT  」\nCreated By @Radit Ganz"
 }
